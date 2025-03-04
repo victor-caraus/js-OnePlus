@@ -67,7 +67,7 @@ main {
         margin: 0 15px 15px;
         color: #000000;
         cursor: pointer;
-        transition: all 0.3s ease; 
+        transition: all 0.2s ease; 
         
     }
     .price:hover {
